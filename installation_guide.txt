@@ -1,0 +1,32 @@
+// install pytsx3
+pip install pyttsx3
+
+// wikipedia
+pip install wikipedia
+
+// speechRecognition
+pip install speechRecognition
+
+// smtplib (for gmail)
+pip install smtplib
+
+// for jokes api install pyjokes
+pip install pyjokes
+
+// install pyaudio
+pip install pipwin
+pipwin install pyaudio
+
+// install dotenv
+pip install python-dotenv
+
+// install all at once (except pyaudio)
+pip install pyttsx3 wikipedia speechRecognition smtplib pyjokes python-dotenv
+
+create a .env file in project directory and save your email password in EMAIL_PASS
+
+EMAIL_PASS=*your email password*
+
+
+
+
