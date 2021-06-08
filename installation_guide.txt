@@ -27,6 +27,4 @@ create a .env file in project directory and save your email password in EMAIL_PA
 
 EMAIL_PASS=*your email password*
 
-
-
-
+eg. EMAIL_PASS=Passgoogle@3421
