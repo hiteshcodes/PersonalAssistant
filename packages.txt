@@ -1,0 +1,6 @@
+pyttsx3
+wikipedia
+speechRecognition
+pyjokes
+python-dotenv
+pipwin
