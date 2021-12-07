@@ -1,3 +1,3 @@
 @echo off
-python G:\projects\python\echo\echo.py
+python D:\Projects\git-repos\PersonalAssistant\echo.py
 @pause

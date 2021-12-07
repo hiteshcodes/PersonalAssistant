@@ -4,3 +4,5 @@ speechRecognition
 pyjokes
 python-dotenv
 pipwin
+win10toast
+keyboard
